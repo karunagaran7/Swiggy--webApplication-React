@@ -1,0 +1,39 @@
+.cart{
+   padding: 5px;
+    padding-bottom: 10px;
+    background-color: orangered;
+    color:black ;
+    width: 75px;
+    
+}
+.cartImg{
+    width: 100px;
+    height: 100px;
+    padding-bottom: 20px;
+
+   
+}
+.all{
+    width: 900px;
+    margin: 0px auto;
+    border: 3px solid gray;
+}
+.details{
+    width: 60%;
+    margin: 0px auto;
+}
+.span{
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.pay{
+    border: 1px solid green;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    width: 70px;
+
+}
+.pay:hover{
+    background-color: green;
+}

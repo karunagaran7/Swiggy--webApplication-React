@@ -1,0 +1,62 @@
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.img{
+    margin-top:-100px;
+    width: 80px;
+    height: 60px;
+    padding-bottom: 10px;
+
+}
+.group{
+    
+padding: 5px;
+}
+.group:hover{
+    margin: 0px;
+    border: 2px solid gray;
+    box-shadow: inset;
+}
+.info{
+    text-align: center;
+    width: 900px;
+}
+
+
+.btn{
+    float: right;
+    margin-right: -90px;
+    margin-top: 0px;
+}
+.recommend1{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: start;
+    display: block;
+    display: flex;
+}
+.recommend{
+    font-size: 10px;
+    font-weight: bolder;
+    text-align: start;
+    display: block;
+    display: none;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordion
+{
+   
+    text-align: start;
+    width: 1000px;
+}
+.accordion button{
+    float: right;
+    background-color: white;
+    margin-top: -50px;
+
+}

@@ -1,0 +1,12 @@
+.rating {
+    display: inline;
+    background-color: orange;
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.rating:hover {
+    background-color: green;
+}
